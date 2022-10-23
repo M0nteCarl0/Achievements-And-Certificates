@@ -1,2 +1,2 @@
 # Achievements-certificates
-My Achievements and certificates repository.
+My achievements and certificates repository.
